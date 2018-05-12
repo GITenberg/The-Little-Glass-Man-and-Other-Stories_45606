@@ -23,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Wilhelm_Hauff
     - http://de.wikipedia.org/wiki/Wilhelm_Hauff
 description: Translation of Das kalte Herz und andere Märchen.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45606#The-Little-Glass-Man-and-Other-Stories
 gutenberg_issued: '2014-05-07'
 gutenberg_type: Text
 identifiers:
